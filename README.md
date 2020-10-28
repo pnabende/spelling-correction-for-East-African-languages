@@ -10,3 +10,5 @@ The second column contains typos generated from single character insertions or s
 The third column contains typos generated from the application of the change_text() function of Python's Misspeller module.
 
 The fourth column contains typos generated from the application of the change_word() function of Python's Mispeller module.
+
+## License: CC 4.0
